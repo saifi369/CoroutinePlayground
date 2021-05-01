@@ -2,6 +2,10 @@
 
 This project is used for **[Kotlin Coroutines](https://developer.android.com/kotlin/coroutines?gclsrc=aw.ds&&gclid=Cj0KCQjw-LOEBhDCARIsABrC0Tk4Du2iiyq88xodfFZpTh_bHpim_xKVpVwzgwz-ZwISXiWxEgIqVfcaAq3aEALw_wcB)** tutorials on **[U4Universe](https://www.youtube.com/u4universe)** Youtube channel.
 
+# Note
+This branch contains code for first video only. For all other videos, please this branch
+**[AndroidCoroutines](https://github.com/saifi369/AndroidCoroutines)**
+
 # Introduction
 A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously. Coroutines were added to Kotlin in version 1.3 and are based on established concepts from other languages.
 
